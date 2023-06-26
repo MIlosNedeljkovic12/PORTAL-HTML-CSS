@@ -1,0 +1,251 @@
+body{
+    background-image: url(slike/po.jpg);
+    background-size: cover;
+}
+.header{
+    width: 980px;
+    margin: auto;
+    background-color: brown;
+    margin: 0px auto;
+    height: 50px;
+}
+#gornjiDeo{
+    background-color:blueviolet;
+    width: 980px;
+    height: 25px;
+}
+
+#prazanDiv{
+    width: 100px;
+    float: left;
+    height: 25px;
+}
+.headerIkonice{
+    height: 19px;
+    float: left;
+    padding: 3px;
+    margin-left: 10px;
+}
+.headerIkoniceText{
+    font-family: 'Poppins' , 'sans-serif';
+    font-weight: bold;
+    float: left;
+    padding-top: 5px;
+    color: antiquewhite;
+}
+.BlogEnglish{
+    float: left;
+    padding-top: 5px;
+    color:silver;
+}
+
+.donji{
+    float: right;
+    margin-right: 10px;
+}
+#donjiDeo{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.donjiText{
+    margin-top: 7px;
+    color: white;
+text-decoration: none;
+
+}
+.donjiText:hover{
+    border-bottom: 3px solid red;
+    text-decoration: none;
+}
+    
+#donjiDeo{
+    background-color:blueviolet;
+    height: 25px;
+}
+#logo{
+    height: 21px;
+margin-left: 2px;
+float: left;}
+
+.gornjaStrafta{
+    width: 100%;
+    background-color: blueviolet;
+    height: 50px;
+}
+#wrapper{
+    width: 980px;
+    background-color: aquamarine;
+    margin: auto;
+    
+}
+#leviDeo{
+    background-color: white;
+    
+    
+    width: 674px;
+    float: left;
+   
+}
+
+#gorelevo{
+    margin: auto;
+    margin-bottom: 5px;
+}
+#slikagore{
+    background-image: url(../b92/slike/OIP.jpg);
+    width: 370px;
+  padding-top: 40px;
+  background-size: cover;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  float: left;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.info{
+    color: yellow;
+    padding-top: 100px;
+    padding-left: 10px;
+    font-size: medium;
+}
+.naslov{
+    padding-left: 10px;
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    
+}
+.naslov:hover{
+    text-decoration: underline;
+}
+#donjitext{
+    
+    color: azure;
+    font-size: medium;
+    margin: 0px;
+}
+#textgore{
+    width: 254px;
+    height: auto;
+    background-color: white;
+    float: left;
+    margin-left: 10px;
+}
+#crtica{
+    width: 4px;
+    height: 22px;
+    background-color: red;
+    float: left;
+    margin-top: 20px;
+}
+#crtica-naslov{
+    width: 246px;
+    height: 22px;
+    background-color: red;
+    float: left;
+    margin-left: 4px;
+    color: white;
+    margin-bottom: 34px;
+    margin-top: 20px;
+    
+}
+#veliki-div{
+    width: 254px;
+    height: auto;
+    background-color: blue;
+    color: black;
+}
+.vest{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium ;
+    font-weight: bolder;
+background-color: white;
+}
+.dolelevo{
+    width: 674px;
+    height: auto;
+    background-color: white;
+   float: left;
+   clear: both;
+  
+    
+
+
+}
+.dole-levo-mali{
+ width: 317px;
+ height: 170px;
+ float: left;
+margin-right: 20px; background-color: green;
+margin-bottom: 20px;
+
+
+}
+.vest1{
+    background-image: url(../b92/slike/slika1.jpg);
+}
+.vest2{
+    background-image: url(../b92/slike/slika2.jpg);
+}
+.vest3{
+    background-image: url(../b92/slike/slika3.jpg);
+}
+.vest4{
+    background-image: url(../b92/slike/slika4.jpg);
+}
+.vest5{
+    background-image: url(../b92/slike/slika5.jpg);
+}
+.vest6{
+    background-image: url(../b92/slike/slika6.jpg);
+}
+.bla{
+    background-image: url(../b92/ikonice/msg.svg);
+    width: 24px;
+    height: 24px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    color: blanchedalmond;
+    font-size: medium;
+    text-align: center;
+
+}
+#infoo{
+    color: yellow;
+    font-size: medium;
+margin-left: 10px;
+margin-top: 70px;
+}
+.br1{
+    margin-left: 10px;
+    padding-top: 20px;
+    color: blanchedalmond;
+    font-size: large;
+}
+.infooo{
+    color: yellow;
+    font-size: medium;
+margin-left: 10px;
+margin-top: 70px;
+}
+
+.br2{
+    margin-left: 10px;
+    padding-top: 20px;
+    color: blanchedalmond;
+    font-size: large;
+
+}
+#desniDeo{
+    background-color: brown;
+width: 304px;
+float: left;
+padding-top: 20px;
+
+}
+
